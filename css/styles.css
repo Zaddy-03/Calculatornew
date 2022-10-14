@@ -1,0 +1,27 @@
+.container{
+  text-align: center;
+  margin: 0 auto;
+}
+
+h1{
+  color: yellowgreen;
+}
+
+#anser{
+  border-radius: 20px;
+  width: 300px;
+}
+.cal{
+  background-color: yellowgreen;
+  padding: 12px;
+  display: inline-block;
+  border-radius: 23px;
+}
+
+input{
+  font-size: 30px;  
+  height: 70px;
+  width: 70px;
+  border-radius: 20px;
+  margin: 5px;
+}
